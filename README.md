@@ -1,5 +1,3 @@
-# Starlights91-Starlights91
-My personal repository
 # Hi there 👋
 
 I'm Mina, a full-stack developer in training!
