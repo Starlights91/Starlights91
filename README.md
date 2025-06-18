@@ -1,10 +1,10 @@
 ### Hi there! 👋 I'm Mina
 
-<h2 align="center"> I'm a full-stack developer in training!🌱</h2>
+<h3 align="center"> I'm a full-stack developer in training!🌱</h3>
 
 <p align="center">
 💡 Passionate about turning ideas into real-world web apps<br>
-🎯 Aiming to work in the <strong>Fintech industry</strong> after completing my full-time coding bootcamp<br>
+🎯 Aiming to work in the <strong>Fintech industry</strong> after completing my full-time fullstack development study<br>
 </p>
 
 ### 👩‍💻 About Me
