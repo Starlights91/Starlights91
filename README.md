@@ -34,6 +34,28 @@
 </p>
 ---
 
+## 📊 GitHub Stats & Trophy
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Starlights91&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starlights91&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Starlights91&theme=darkhub&no-frame=true&row=1" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mina-oh0123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mn.0123/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<!--   <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> -->
+</p>
+
+
 <!-- 3D GitHub 무지개 잔디 -->
 ![3D GitHub Profile](./profile-3d-contrib/profile-night-rainbow.svg)
 
