@@ -47,12 +47,13 @@
 
 ---
 
-## 📫 Connect with Me
+<!--## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mina-oh0123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/mn.0123/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!--   <a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> -->
+
 </p>
 
 
